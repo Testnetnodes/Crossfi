@@ -9,7 +9,7 @@
 ![Testnetnodes](https://github.com/Testnetnodes/Crossfi-/assets/115115403/967ab38c-faf5-4fbe-9e84-3323da53d6e6)
 
 
- * [Topluluk Twitter](https://twitter.com/testnetnodes))<br>
+ * [Topluluk Twitter](https://twitter.com/testnetnodes)<br>
  * [Crossfi Website](https://crossfi.org/)<br>
  * [Blockchain Explorer](https://test.xfiscan.com/)<br>
  * [Discord](https://discord.gg/crossfi)<br>
